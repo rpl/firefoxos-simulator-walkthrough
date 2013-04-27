@@ -1,0 +1,7 @@
+{
+  "description": "A simple web app",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/style/icons/earth.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Where am I?",
+  "description": "A simple web app",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/style/icons/earth.png"
+  },
+  "permissions": {
+    "geolocation": {
+      "description": "something important?"
+      }
+  }
+}
