@@ -1,0 +1,25 @@
+#map {
+  width:260px;
+  height: 340px;
+  padding: -2px;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 4px;
+  border: 4px solid #2A5769;
+}
+
+body {
+  background-color: #002E40;
+  text-align: center;
+}
+
+button {
+  width: 260px;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: auto;
+  background: #FA9600;
+  color: white;
+  margin: 1em;
+  border: none;
+}
